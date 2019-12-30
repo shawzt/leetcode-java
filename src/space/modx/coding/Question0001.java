@@ -16,7 +16,7 @@ package space.modx.coding;
 
 import java.util.HashMap;
 
-public class TopInterviewEasy9 {
+public class Question0001 {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> m = new HashMap<>();
         int[] result = new int[2];

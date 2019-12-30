@@ -55,7 +55,7 @@ package space.modx.coding;
 
 import java.util.HashMap;
 
-public class TopInterviewEasy10 {
+public class Question0036 {
     public boolean isValidSudoku_1(char[][] board) {
         HashMap<Integer, Integer>[] rows = new HashMap[9];
         HashMap<Integer, Integer>[] columns = new HashMap[9];

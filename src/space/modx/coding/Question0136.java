@@ -18,7 +18,7 @@ package space.modx.coding;
 输出: 4
 */
 
-public class TopInterviewEasy5 {
+public class Question0136 {
     public int singleNumber(int[] nums) {
         int result = 0;
         for (int i = 0; i < nums.length; i++) {

@@ -26,7 +26,7 @@ package space.modx.coding;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class TopInterviewEasy6 {
+public class Question0350 {
     public int[] intersect_1(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);

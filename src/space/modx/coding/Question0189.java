@@ -25,7 +25,7 @@ package space.modx.coding;
 要求使用空间复杂度为 O(1) 的 原地 算法。
 */
 
-public class TopInterviewEasy3 {
+public class Question0189 {
     /*
     复杂度分析
 

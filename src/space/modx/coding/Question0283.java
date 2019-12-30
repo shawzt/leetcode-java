@@ -14,7 +14,7 @@ package space.modx.coding;
 尽量减少操作次数。
 */
 
-public class TopInterviewEasy8 {
+public class Question0283 {
     public void moveZeroes(int[] nums) {
         int atIdx = 0;
         for (int i = 0; i < nums.length; i++) {

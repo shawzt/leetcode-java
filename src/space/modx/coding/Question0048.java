@@ -44,7 +44,7 @@ package space.modx.coding;
 ]
 */
 
-public class TopInterviewEasy11 {
+public class Question0048 {
     public void rotate_1(int[][] matrix) {
         int n = matrix.length;
         // 转置

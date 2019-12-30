@@ -24,7 +24,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class TopInterviewEasy4 {
+public class Question0217 {
     public boolean containsDuplicate_1(int[] nums) {
         Arrays.sort(nums);
 

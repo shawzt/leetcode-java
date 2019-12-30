@@ -39,7 +39,7 @@ for (int i = 0; i < len; i++) {
 }
 */
 
-public class TopInterviewEasy1 {
+public class Question0026 {
     public int removeDuplicates(int[] nums) {
         int idx = 0;
 

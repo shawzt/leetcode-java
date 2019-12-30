@@ -22,7 +22,7 @@ package space.modx.coding;
 
 import java.util.Arrays;
 
-public class TopInterviewEasy7 {
+public class Question0066 {
     public int[] plusOne(int[] digits) {
         int plus = 1;
         for (int i = digits.length-1; i >= 0 ; i--) {
