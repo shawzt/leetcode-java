@@ -26,7 +26,7 @@ package space.modx.coding;
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Question0019 {
+public class  Question0019 {
     class ListNode {
         int val;
         ListNode next;
