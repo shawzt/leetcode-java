@@ -43,12 +43,9 @@ public class Question0026 {
     public int removeDuplicates(int[] nums) {
         int idx = 0;
 
-        for (int next = idx+1; next < nums.length; next++) {
-            if (nums[next] == nums[idx]) {
-                continue;
-            } else {
-                idx++;
-                nums[idx] = nums[next];
+        for (int next = 1; next < nums.length; next++) {
+            if (nums[next] != nums[idx]) {
+                nums[++idx] = nums[next];
             }
         }
 
